@@ -32,9 +32,8 @@ Interested in **Data Analysis & ML/DL**
 <details align = center>
   <summary>My Projects</summary>
   <div markdow = "1">
-    |test|temp|tmp|
-    |----|----|----|
-    |test1|test2|test3
+    [2023/07 ~ now] Ten Project (dev)
+    [2022/01 ~ 2022/03] test
   </div>
 
 </details>
