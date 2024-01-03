@@ -19,14 +19,17 @@ Interested in **Data Analysis & ML/DL**
 <br>
 
 <details align = center>
-<summary><div align = center>
-  <b> [ My Playground ]</b> <br>
-  <A href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</A></summary>
-<br><b>On AWS lightsail</b> with <b><A href="https://github.com/syg0203">syg0203</A></b>
+  <summary>
+    <b> [ My Playground ]</b>
+    <br>
+    <A href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</A>
+  </summary>
+  <br>
+  <b>On AWS lightsail</b> with <b><A href="https://github.com/syg0203">syg0203</A></b>
 </details>
+<br>
 
-  <br>
-  <br>
+<div align = center>
   <b>[ Prefered Language ]</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <br><br>
@@ -38,6 +41,8 @@ Interested in **Data Analysis & ML/DL**
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi">
+</div>
+<br>
 
 <div align = center>
   <b> [ Back ground ] </b> <br>
@@ -47,8 +52,6 @@ Interested in **Data Analysis & ML/DL**
 </div>
 
   
-
-</div>
 
 
 
