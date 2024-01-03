@@ -20,13 +20,17 @@ Interested in **Data Analysis & ML/DL**
 
 <details align = center>
   <summary>
+    <div>
     <b> [ My Playground ]</b>
     <br>
     <A href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</A>
+    </div>
   </summary>
   <br>
   <b>On AWS lightsail</b> with <b><A href="https://github.com/syg0203">syg0203</A></b>
 </details>
+</div>
+
 <br>
 
 <div align = center>
