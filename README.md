@@ -18,9 +18,12 @@ Interested in **Data Analysis & ML/DL**
 
 <br>
 
-<div align = center>
+<details align = center>
+<summary><div align = center>
   <b> [ My Playground ]</b> <br>
-  <A href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</A>
+  <A href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</A></summary>
+On AWS lightsail
+</details>
   <br>
   <br>
   <b>[ Prefered Language ]</b><br>
