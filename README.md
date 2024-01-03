@@ -23,7 +23,7 @@ Interested in **Data Analysis & ML/DL**
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
 
-<div float = right>
+<div float = left>
   <b>[ Friendly Libraries ]</b><br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
