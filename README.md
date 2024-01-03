@@ -10,8 +10,8 @@ Interested in **Data Analysis & ML/DL**
 ![Bruce's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyunjun-Bruce-Lee&theme=monokai)
 
 <div align = center>
-    <img height = 160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact", float = left>
-	  <img height = 160 src = "https://github-readme-stats.vercel.app/api?username=Hyunjun-Bruce-Lee&show_icons=true&theme=radical"float = right>
+    <img height = 165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact", float = left>
+	  <img height = 165 src = "https://github-readme-stats.vercel.app/api?username=Hyunjun-Bruce-Lee&show_icons=true&theme=radical"float = right>
 </div>
 
 
@@ -29,7 +29,15 @@ Interested in **Data Analysis & ML/DL**
 
 </details>
 
+<details align = center>
+  <summary>My Projects</summary>
+  <div markdow = "1">
+    |test|temp|tmp|
+    |----|----|----|
+    |test1|test2|test3
+  </div>
 
+</details>
 
 
 
