@@ -20,7 +20,7 @@ Interested in **Data Analysis & ML/DL**
 
 <div align = center>
   <b> [ My Playground ]</b> <br>
-  <A herf="https://www.tensecgames.com/" target = "blank"> Tensec Games</A>
+  <A href="https://www.tensecgames.com/" target = "blank"> Tensec Games</A>
   <br>
   <br>
   <b>[ Prefered Language ]</b><br>
