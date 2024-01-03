@@ -22,8 +22,9 @@ Interested in **Data Analysis & ML/DL**
 <summary><div align = center>
   <b> [ My Playground ]</b> <br>
   <A href="https://www.tensecgames.com/" target = "blank">🎡 Tensec Games 🎢</A></summary>
-On AWS lightsail
+<br><b>On AWS lightsail</b> with <b><A href="https://github.com/syg0203">syg0203</A></b>
 </details>
+
   <br>
   <br>
   <b>[ Prefered Language ]</b><br>
