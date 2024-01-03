@@ -4,9 +4,7 @@
 
 
 
-<br>
-
-Interests : Data Analysis & ML/DL
+Interested in **Data Analysis & ML/DL**
 <br>
 
 ![Bruce's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyunjun-Bruce-Lee&theme=monokai)
@@ -18,15 +16,21 @@ Interests : Data Analysis & ML/DL
 
 
 
+<br>
 
-
-<details>
+<details align = center>
   <summary> My Dev Tools </summary>
   <div markdow = "1">
-    Desktop : RTX 4080 / intel i9 - 000000 / 00GB ram <br>
-    Desktop : RTX 4080 / intel i9 - 000000 / 00GB ram
+    Desktop : RTX 4080 / intel i7 - 13700 / 32GB ram <br>
+    Laptop : M2 mac / Asus
 
 
   </div>
 
 </details>
+
+
+
+
+
+test
