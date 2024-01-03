@@ -18,19 +18,27 @@ Interested in **Data Analysis & ML/DL**
 
 <br>
 
-<div align = center>
+<div float = left>
   <b>[ Prefered Language ]</b><br>
-  <img src="https://img.shields.io/badge/Python_3.8-3776AB?style=flat-square&logo=python&logoColor=white">
-  <br><br>
-  <b>[ Friendly libraries ]</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</div>
+
+<div float = right>
+  <b>[ Friendly Libraries ]</b><br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"><br>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi">
 
-  
+<div align = center>
+  <b> [ Back ground ] </b> <br>
+  High school ~ Now : 🇰🇷 (KOR) <br>
+  Middle school (3y) : 🇨🇳 (CHN) <br>
+  Elementry school (6y) : 🇳🇿 (NZ)
+</div>
 
   
 
