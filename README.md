@@ -4,14 +4,12 @@
 
 
 
-### Interests : Data Analysis & ML/DL
-
 <br>
+
+Interests : Data Analysis & ML/DL
 <br>
 
 ![Bruce's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyunjun-Bruce-Lee&theme=monokai)
-
-<br>
 
 <div align = center>
     <img height = 160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact", float = left>
@@ -21,17 +19,14 @@
 
 
 
-<h4>
-<details>
-        <summary>📚 Project 📚
-        </summary><br>
-| 기간 | 프로젝트명 | 역할 | 수상내역 |
-| --- | --- | --- | --- |
-| hello      | test       | temp | na       |
-|            |            |      |          |
-|            |            |      |          |
-|            |            |      |          |
-|</details>||||
-|</h4>||||
 
-</div>
+<details>
+  <summary> My Dev Tools </summary>
+  <div markdow = "1">
+    Desktop : RTX 4080 / intel i9 - 000000 / 00GB ram <br>
+    Desktop : RTX 4080 / intel i9 - 000000 / 00GB ram
+
+
+  </div>
+
+</details>
