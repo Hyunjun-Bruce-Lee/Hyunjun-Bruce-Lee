@@ -18,12 +18,12 @@ Interested in **Data Analysis & ML/DL**
 
 <br>
 
+<div>
 <div float = left>
   <b>[ Prefered Language ]</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
-
-<div float = left>
+<div float = right>
   <b>[ Friendly Libraries ]</b><br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
@@ -32,6 +32,12 @@ Interested in **Data Analysis & ML/DL**
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi">
+</div>
+</div>
+
+
+
+
 
 <div align = center>
   <b> [ Back ground ] </b> <br>
@@ -41,8 +47,6 @@ Interested in **Data Analysis & ML/DL**
 </div>
 
   
-
-</div>
 
 
 
