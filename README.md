@@ -13,9 +13,9 @@
 
 <br>
 
-<div>
-    <img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact", float = left>
-	  <img height = 200 src = "https://github-readme-stats.vercel.app/api?username=Hyunjun-Bruce-Lee&show_icons=true&theme=radical"float = right>
+<div align = center>
+    <img height = 150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact", float = left>
+	  <img height = 150 src = "https://github-readme-stats.vercel.app/api?username=Hyunjun-Bruce-Lee&show_icons=true&theme=radical"float = right>
 </div>
 
 
