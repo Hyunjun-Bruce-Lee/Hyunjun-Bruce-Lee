@@ -7,16 +7,40 @@
 Interested in **Data Analysis & ML/DL**
 <br>
 
-![Bruce's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyunjun-Bruce-Lee&theme=monokai)
+![Bruce's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyunjun-Bruce-Lee&theme=dark)
 
 <div align = center>
-    <img height = 165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact", float = left>
-	  <img height = 165 src = "https://github-readme-stats.vercel.app/api?username=Hyunjun-Bruce-Lee&show_icons=true&theme=radical"float = right>
+    <img height = 165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunjun-Bruce-Lee&layout=compact&theme=dark", float = left>
+	  <img height = 165 src = "https://github-readme-stats.vercel.app/api?username=Hyunjun-Bruce-Lee&show_icons=true&theme=dark"float = right>
 </div>
 
 
 
 <br>
+
+<div align = center>
+  <b>[ Prefered Language ]</b><br>
+  <img src="https://img.shields.io/badge/Python_3.8-3776AB?style=flat-square&logo=python&logoColor=white">
+  <br><br>
+  <b>[ Friendly libraries ]</b><br>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white">
+
+  
+
+  
+
+</div>
+
+
+
+<br>
+
+
 
 <details align = center>
   <summary> My Dev Tools </summary>
@@ -32,12 +56,11 @@ Interested in **Data Analysis & ML/DL**
 <details align = center>
   <summary>My Projects</summary>
   <div markdow = "1">
-    [2023/07 ~ now] Ten Project (dev)
-    [2022/01 ~ 2022/03] test
+    [2023/07 ~ now] <b>Ten Project</b> (dev) <br>
+    [2022/01 ~ 2022/03] test (NLP dev)
   </div>
 
 </details>
 
 
 
-test
