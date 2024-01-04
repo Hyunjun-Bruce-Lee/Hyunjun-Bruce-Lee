@@ -29,8 +29,6 @@ Interested in **Data Analysis & ML/DL**
   <br>
   <b>On AWS lightsail</b> with <b><A href="https://github.com/syg0203">syg0203</A></b>
 </details>
-</div>
-
 <br>
 
 <div align = center>
@@ -55,13 +53,7 @@ Interested in **Data Analysis & ML/DL**
   Elementry school (6y) : 🇳🇿 (NZ)
 </div>
 
-  
-
-
-
 <br>
-
-
 
 <details align = center>
   <summary> My Dev Tools </summary>
@@ -73,15 +65,3 @@ Interested in **Data Analysis & ML/DL**
   </div>
 
 </details>
-
-<details align = center>
-  <summary>My Projects</summary>
-  <div markdow = "1">
-    [2023/07 ~ now] <b>Ten Project</b> (dev) <br>
-    [2022/01 ~ 2022/03] test (NLP dev)
-  </div>
-
-</details>
-
-
-
