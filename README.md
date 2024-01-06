@@ -27,8 +27,13 @@ Interested in **Data Analysis & ML/DL**
     </div>
   </summary>
   <br>
-  <b>On AWS lightsail</b> with <b><A href="https://github.com/syg0203">syg0203</A></b>
+  <b>On AWS lightsail</b> with 
+  <b><A href="https://github.com/syg0203">syg0203</A></b>
+  <br>
+  neural network based tests for fun, see used models 
+  <A href="https://github.com/Hyunjun-Bruce-Lee/TenProject">here</A>
 </details>
+
 <br>
 
 <div align = center>
