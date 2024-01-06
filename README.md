@@ -68,7 +68,8 @@ Interested in **Data Analysis & ML/DL**
   <summary> My Dev Tools </summary>
   <div markdow = "1">
     Desktop : RTX 4080 / intel i7 - 13700 / 32GB ram <br>
-    Laptop : M2 mac / Asus
+    Laptop : M2 mac & Asus laptop
+
 
 
   </div>
