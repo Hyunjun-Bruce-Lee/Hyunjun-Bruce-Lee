@@ -61,14 +61,13 @@ Interested in **Data Analysis & ML/DL**
   Middle school (3y) : 🇨🇳 (CHN) <br>
   Elementry school (6y) : 🇳🇿 (NZ)
 </div>
-
 <br>
 
 <details align = center>
   <summary> My Dev Tools </summary>
   <div markdow = "1">
     Desktop : RTX 4080 / intel i7 - 13700 / 32GB ram <br>
-    Laptop : M2 mac & Asus laptop
+    Portable Device : M2 mac & ipad, Asus laptop
 
 
 
