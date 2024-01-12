@@ -15,7 +15,6 @@ Interested in **Data Analysis & ML/DL**
 </div>
 
 
-
 <br>
 
 <details align = center>
@@ -33,7 +32,6 @@ Interested in **Data Analysis & ML/DL**
   neural network based tests for fun, see used models 
   <A href="https://github.com/Hyunjun-Bruce-Lee/TenProject">here</A>
 </details>
-
 <br>
 
 <div align = center>
@@ -42,6 +40,7 @@ Interested in **Data Analysis & ML/DL**
   <br><br>
   <b>[ Friendly Libraries ]</b><br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white">
+  <img src ="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"><br>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white">
@@ -50,6 +49,7 @@ Interested in **Data Analysis & ML/DL**
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi">
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue">
 </div>
+
 
 
 
@@ -74,3 +74,16 @@ Interested in **Data Analysis & ML/DL**
   </div>
 
 </details>
+
+
+
+
+
+A 총급여 = 300 (200 + 100)
+
+EWC 급여 명세서 : 100
+
+DK 급여 명세서 : 200
+
+
+
