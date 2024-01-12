@@ -74,16 +74,3 @@ Interested in **Data Analysis & ML/DL**
   </div>
 
 </details>
-
-
-
-
-
-A 총급여 = 300 (200 + 100)
-
-EWC 급여 명세서 : 100
-
-DK 급여 명세서 : 200
-
-
-
