@@ -4,7 +4,6 @@
 
 
 
-Interested in **Data Analysis & ML/DL**
 <br>
 
 ![Bruce's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyunjun-Bruce-Lee&theme=dark)
